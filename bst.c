@@ -14,6 +14,7 @@ void postorder(NODE root);
 int main() {
     int ch;
     NODE root = NULL;
+//just a comment
  
     for (;;) {
         printf("1.Insert 2.Preorder 3.Inorder 4.Postorder\n");
