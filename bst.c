@@ -10,7 +10,8 @@ typedef struct node *NODE;
 NODE insert(NODE root);
 void preorder(NODE root);
 void inorder(NODE root);
-void postorder(NODE root);//basker
+void postorder(NODE root);//basker, bharath
+
 int main() {
     int ch;
     NODE root = NULL;
